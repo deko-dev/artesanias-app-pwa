@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{n3IK:function(n,o,r){"use strict";r.r(o),r.d(o,"CarritoModule",(function(){return c}));var t=r("ofXK"),e=r("fXoL");let c=(()=>{class n{}return n.\u0275mod=e.Fb({type:n}),n.\u0275inj=e.Eb({factory:function(o){return new(o||n)},imports:[[t.c]]}),n})()}}]);
